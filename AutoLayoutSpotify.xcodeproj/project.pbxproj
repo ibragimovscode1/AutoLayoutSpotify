@@ -10,9 +10,10 @@
 		5249AC742863643C006F2110 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5249AC732863643C006F2110 /* AppDelegate.swift */; };
 		5249AC762863643C006F2110 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5249AC752863643C006F2110 /* SceneDelegate.swift */; };
 		5249AC782863643C006F2110 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5249AC772863643C006F2110 /* ViewController.swift */; };
-		5249AC7B2863643C006F2110 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5249AC792863643C006F2110 /* Main.storyboard */; };
 		5249AC7D28636446006F2110 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5249AC7C28636446006F2110 /* Assets.xcassets */; };
 		5249AC8028636446006F2110 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5249AC7E28636446006F2110 /* LaunchScreen.storyboard */; };
+		52E8348628636879007C8E63 /* Factories.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E8348528636879007C8E63 /* Factories.swift */; };
+		52E834892863688C007C8E63 /* Challange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E834882863688C007C8E63 /* Challange.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,10 +21,11 @@
 		5249AC732863643C006F2110 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5249AC752863643C006F2110 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		5249AC772863643C006F2110 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		5249AC7A2863643C006F2110 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5249AC7C28636446006F2110 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5249AC7F28636446006F2110 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5249AC8128636446006F2110 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52E8348528636879007C8E63 /* Factories.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Factories.swift; sourceTree = "<group>"; };
+		52E834882863688C007C8E63 /* Challange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challange.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +60,9 @@
 			children = (
 				5249AC732863643C006F2110 /* AppDelegate.swift */,
 				5249AC752863643C006F2110 /* SceneDelegate.swift */,
+				52E8348528636879007C8E63 /* Factories.swift */,
+				52E834882863688C007C8E63 /* Challange.swift */,
 				5249AC772863643C006F2110 /* ViewController.swift */,
-				5249AC792863643C006F2110 /* Main.storyboard */,
 				5249AC7C28636446006F2110 /* Assets.xcassets */,
 				5249AC7E28636446006F2110 /* LaunchScreen.storyboard */,
 				5249AC8128636446006F2110 /* Info.plist */,
@@ -126,7 +129,6 @@
 			files = (
 				5249AC8028636446006F2110 /* LaunchScreen.storyboard in Resources */,
 				5249AC7D28636446006F2110 /* Assets.xcassets in Resources */,
-				5249AC7B2863643C006F2110 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,21 +141,15 @@
 			files = (
 				5249AC782863643C006F2110 /* ViewController.swift in Sources */,
 				5249AC742863643C006F2110 /* AppDelegate.swift in Sources */,
+				52E8348628636879007C8E63 /* Factories.swift in Sources */,
 				5249AC762863643C006F2110 /* SceneDelegate.swift in Sources */,
+				52E834892863688C007C8E63 /* Challange.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		5249AC792863643C006F2110 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5249AC7A2863643C006F2110 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		5249AC7E28636446006F2110 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
