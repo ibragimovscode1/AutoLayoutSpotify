@@ -1,5 +1,9 @@
-# AutoLayoutSpotify
-Spotify Playback parameters screen, Player Screen Clone programmatically
+# Spotify App 
+This is a Cloned version of Spotify App using Swift. 
+This is only for personal education purpose. This clone is featuring most of the features that Spotify has.
+
+
+
 # Technologies & Features 
 - AutoLayout
 - UIStackView
