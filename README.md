@@ -11,5 +11,7 @@ Spotify Playback parameters screen, Player Screen Clone programmatically
 - UIButtons
 
 
-![]<img width="331" alt="Screen Shot 2022-07-13 at 15 54 25" src="https://user-images.githubusercontent.com/89012665/178738592-e8621536-4c04-4457-ba04-e33daa5add1d.png">
-![]<img width="339" alt="Screen Shot 2022-07-13 at 15 51 04" src="https://user-images.githubusercontent.com/89012665/178738600-dc8e6876-4bb8-4d4f-918c-13880c2284b4.png">
+# Main Screen
+![spotify1](https://user-images.githubusercontent.com/89012665/179398647-54a9c22d-54e3-487c-be3b-f70d284853fb.jpg)
+# Player Screen
+![spotify2](https://user-images.githubusercontent.com/89012665/179398651-a857b45d-5244-4ddf-affa-2d808be163ce.jpg)
